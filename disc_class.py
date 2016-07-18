@@ -1,3 +1,6 @@
+'''
+ I, Kristóf Rozgonyi (rstofi@gmail.com) own the code under the The MIT License (MIT).
+'''
 import numpy as np;
 import matplotlib.pyplot as plt;
 from mpl_toolkits.axes_grid1 import make_axes_locatable;
